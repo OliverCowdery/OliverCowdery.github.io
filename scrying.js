@@ -103,6 +103,9 @@ var revelations = [
     "Terms and conditions may apply",
     "Ponderize: to monetizing a church office",
     "unless their parents are gay",
+    "nonconsensual immorality",
+    "Excommunicate Sam Young",
+    "Protect Joseph Bishop",
     "people fall away due to transgression."];
 
 var revIdx = 0;
