@@ -3,7 +3,7 @@ var scripture = "yea for thus saith the lord have I put thee away or have I cast
 
 var msgIdx = 0;
 var bootUpMsgs = [
-    {msg:"Scrying BOIS v6.65",delay:1600},
+    {msg:"Scrying BOIS v6.69",delay:1600},
     {msg:"System check",delay:600},
     {msg:"System check.",delay:600},
     {msg:"System check..",delay:600},
