@@ -100,12 +100,16 @@ var revelations = [
     "The blessings might be fulfilled in the next life",
     "Gift of the rod is a gift from God",
     "Sell the canadian copyright",
-    "Terms and conditions may apply",
-    "Ponderize: to monetizing a church office",
+    "Terms and conditions may apply", 
+    "Ponderize: (v.) monetize a church office",
     "unless their parents are gay",
-    "nonconsensual immorality",
-    "Excommunicate Sam Young",
-    "Protect Joseph Bishop",
+    "a major victory for Satan",
+    "victims must sign non-disclosure agreements",
+    "several months before her 15th birthday",
+    "Protect the leaders over the children",
+    "Ask children about masturbation",    
+    "Battery low, just copy Adam Clarke's commentary",
+    "Adam is God, until I God change my mind about that",
     "people fall away due to transgression."];
 
 var revIdx = 0;
