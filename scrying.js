@@ -110,6 +110,14 @@ var revelations = [
     "Ask children about masturbation",    
     "Battery low, just copy Adam Clarke's commentary",
     "Adam is God, until I God change my mind about that",
+    "You'll know when you're dead!",
+    "Doubt your doubts!!!!!",
+    "We know that in the name of Jesus Christ, Amen",
+    "We know that we know that we know...",
+    "Feelings equal knowledge",
+    "The Kinderhook were authentic right up until they were not",
+    "The seer stone is an anti-mormon lie",
+    "When the prophet speaks the debate is over!!!",
     "people fall away due to transgression."];
 
 var revIdx = 0;
